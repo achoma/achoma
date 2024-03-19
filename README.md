@@ -1,13 +1,15 @@
 
 
 
-# Hi, I'm Agnieszka Choma a Front-End Developer! 🙂
+# Hi, I'm Agnieszka Choma a Front-End Developer! 😀
 
 ### 👨‍💻 About Me:
 
 
 I am proficient with tools such as `HTML`, `CSS`, and `JavaScript`.
+
 Currently, I'm expanding my skills in areas like `React` and `NodeJS`.
+
 Always eager to learn and explore new technologies. 💻🌐
 
 ### 💞️ I’m looking for:
