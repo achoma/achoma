@@ -7,13 +7,12 @@
 
 
 I am proficient with tools such as `HTML`, `CSS`, and `JavaScript`.
-
 Currently, I'm expanding my skills in areas like `React` and `NodeJS`.
-
 Always eager to learn and explore new technologies. 💻🌐
 
 ### 💞️ I’m looking for:
-I am open to internship opportunities or employment as a Front-End Developer, where I can develop my skills and gain experience in a dynamic IT environment
+I am open to internship opportunities or employment as a Front-End Developer, 
+where I can develop my skills and gain experience in a dynamic IT environment
 
 ### 📫 How to reach me:
 
