@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me:
 
 
-I am proficient with tools such as `HTML`, `CSS`, and `JavaScript`, but they are just the starting point for my exploration of visual presentation and interaction realms.
+I am proficient with tools such as `HTML`, `CSS`, and `JavaScript`.
 Currently, I'm expanding my skills in areas like `React` and `NodeJS`.
 Always eager to learn and explore new technologies. 💻🌐
 
