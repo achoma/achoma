@@ -1,7 +1,7 @@
 
 
 
-# Hi, I'm Agnieszka Choma a Front-End Developer! 😄
+# Hi, I'm Agnieszka Choma a Front-End Developer! 🙂
 
 ### 👨‍💻 About Me:
 
